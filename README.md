@@ -1,5 +1,7 @@
 # Corona-and-its-effects-on-Air_Quality-of-India
 
+Our aim is to find whether Corona Virus had any impact on the Air Quality of the different cities of India.
+
 The AQI calculation uses 7 measures: PM2.5(Particulate Matter 2.5-micrometer), PM10, SO2, NOx, NH3, CO and O3(ozone).
 
 For PM2.5, PM10, SO2, NOx and NH3 the average value in last 24-hrs is used with the condition of having at least 16 values.
